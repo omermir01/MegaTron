@@ -1,0 +1,154 @@
+<html>
+   <head>
+      <meta charset = "utf-8">
+      <title>Marbin's Webpage</title>
+ <style type = "text/css">  
+	 em       { font-weight: bold;
+                    color: black; }   
+         h1       { font-family: tahoma, helvetica, sans-serif; }
+	 p        { font-size: 12pt;
+                    font-family: arial, sans-serif; }
+         .special { color: blue; }
+	 img   
+         {
+            position: relative;
+            -webkit-animation: movingimage linear 10s 1s 2 alternate;
+            -moz-animation: movingimage linear 10s 1s 2 alternate;
+            animation: movingimage linear 10s 1s 2 alternate;
+         }
+         @-webkit-keyframes movingimage 
+         {
+            0%   {opacity: 0; left: 50px; top: 0px;}
+            25%  {opacity: 1; left: 0px; top: 50px;}
+            50%  {opacity: 0; left: 50px; top: 100px;}
+            75%  {opacity: 1; left: 100px; top: 50px;}
+            100% {opacity: 0; left: 50px; top: 0px;}
+         }
+         @-moz-keyframes movingimage 
+         {
+            0%   {opacity: 0; left: 50px; top: 0px;}
+            25%  {opacity: 1; left: 0px; top: 50px;}
+            50%  {opacity: 0; left: 50px; top: 100px;}
+            75%  {opacity: 1; left: 100px; top: 50px;}
+            100% {opacity: 0; left: 50px; top: 0px;}
+         }
+         @keyframes movingimage
+         {
+            0%   {opacity: 0; left: 50px; top: 0px;}
+            25%  {opacity: 1; left: 0px; top: 50px;}
+            50%  {opacity: 0; left: 50px; top: 100px;}
+            75%  {opacity: 1; left: 100px; top: 50px;}
+            100% {opacity: 0; left: 50px; top: 0px;}
+         }
+	 p    
+      { margin: 0.9em 0em; }
+      /* styles for smartphones with screen widths 480px or smaller */
+      @media handheld and (max-width: 480px), 
+         screen and (max-device-width: 480px), 
+         screen and (max-width: 480px) 
+      {
+         div {
+            -webkit-column-count: 1; 
+            column-count: 1; }
+      }
+      /* styles for devices with screen widths of 481px to 1024px */
+      @media only screen and (min-width: 481px) and 
+         (max-width: 1024px)
+      {
+         div {
+            -webkit-column-count: 2; 
+            column-count: 2;
+            -webkit-column-gap: 30px; 
+            column-gap: 30px;
+            -webkit-column-rule: 1px outset black; 
+            column-rule: 1px outset black; }
+      }
+      /* styles for devices with screen widths of 1025px or greater */
+      @media only screen and (min-width: 1025px)
+      {
+         div {
+            -webkit-column-count: 3; 
+            column-count: 3;
+            -webkit-column-gap: 30px; 
+            column-gap: 30px;
+            -webkit-column-rule: 1px outset black; 
+            column-rule: 1px outset black; }
+      }
+	
+      </style>
+   </head>
+
+   <body>
+	<h1 class = "special">Welcome to Marbin's Webpage!!</h1>
+	<p><img src="welcome.gif" alt="welcome"></p>
+	<p>Hello and welcome to my first webpage! My name is Marbin O. Gonzalez and I am 24 years old. I am a student at UHD and studying Computer science. This is my senior year and hope to graduate in spring 2019! I like to play sports especially soccer, basketball and ping pong. I have a younger sister and a younger brother who both attend Lonestar College Cy-fair. I am the oldest child and the first to attend college, so it is very important to me that I finish school and get my bachelor's degree. It has been a long and hard journey to get where I am today, and I couldn't have done it with all my friends and family that have supported me. I am really getting interested in web programming, the fact that I am learning to create a website excites me and I am willing to learn and use it possibly in the future as a career. I have learned several languages in my academic journey such as C++, Visual Basic, and Python. Once I graduate I hope to have mastered web programming and to attain an entry job and start a new chapter in my life. </p>
+
+	 <li>
+            These are some things I hope to have accomplished once I graduate:
+            <ul>
+               <li>Find a entry level job</li>
+               <li>Learn some programming languages such as
+                  <ol>
+                     <li>C</li>
+                     <li>Java</li>
+                     <li>HTML5</li>
+                     <li>C++</li>
+		     <li>Python</li>
+                  </ol>
+               </li> <!-- ends line 27 new applications li-->
+
+               <li>Create my own homepage</li>
+               <li>Graduate</li>
+              </li>
+	     </ul>
+	  </li>
+
+	
+	<p><label>If you have any questions about me ask below:<br>
+            <textarea name = "questions"
+               rows = "4" cols = "36">Enter questions here.</textarea>
+         </label></p>
+
+      <p>
+         If you would like to send me, <a href = "mailto:marbin.g12@outlook.com">
+         Marbin O. Gonzalez</a>, an email click the link and your default 
+         email will open an email message and address it to me. Thank You!
+      </p>
+   </body>
+<body>
+      <header>
+         <h1>Different Programming languages</h1>
+      </header>
+      <div>
+         <p>
+1. Java
+Java is considered as the perfect language for the developers and programmers to learn. Currently, it is the top-most programming language and has grabbed the highest position with Android OS yet again, though it was a bit down a few years ago. Java can be utilized for mobile-based applications, enterprise-level purpose, for creating desktop applications, and for establishing Android apps on tablets and smartphones.
+2. PHP
+The web developers should learn about PHP or Hypertext Preprocessor, a well-known programming language. With the help of PHP, you can enlarge a web app very quickly and effortlessly. PHP is the actual foundation of many strong content management systems, for example, WordPress. PHP is really a valuable programming language for the developers and programmers.
+<p>3. JavaScript
+While you are expanding your site, JavaScript is extremely functional as this language can immensely assist you in generating the communication for your website. You can utilize various in style frameworks in JavaScript for constructing the superb user interface. When you're into web development, it's very important to know about JavaScript for making interactive web pages. JavaScript is applied for including animations on the web pages, loading fresh images, scripts or objects on web page, and craft hugely responsive user interfaces.
+4. Python
+For becoming skilled at all-in-one language, you should begin learning Python language that has the ability to expand web apps, data analysis, user interfaces, and much more, and frameworks are also available for these tasks. Python is utilized by bigger companies mostly that can evaluate vast data sets, thus this is a huge chance to learn it and be a Python programmer.
+<p>5. Objective-C
+If you are the one who is interested in constructing apps for iOS, then you have to know about Objective-C language efficiently. The most preferred choice for all the web developers is Objective-C. When you have learned Objective-C, you can begin applying XCode that is known to be the authorized software development tool from Apple. Thus you can quickly produce an iOS app that can be noticeable in App Store.
+6. Ruby
+Another popular programming language is Ruby and Ruby on Rails. This can be learned easily, and also very strong and clear-cut. If you've small time in hand and still want to craft any project, then you can surely utilize Ruby language. This programming language is applied massively for web programming and hence turned out to be the ideal selection for the beginner companies.
+7. Perl
+Perl is also a well-accepted programming language that offers distinct tools for various obscure setbacks such as system programming. Though this programming language is a bit puzzling, it is really a strong one that you can learn for this year, and renew your knowledge. Perl is mainly used for sites and web app expansion, desktop app development and system administration, and test automation that can be applied to testing databases, web apps, networking devices, and much more.
+<p>8. C, C++ and C#
+You can increase your knowledge by learning about C this year that is a unique programming language. Being the oldest, it should be learned first when you start up, and it is mainly applied in forming different software.
+C++ or C plus plus is a bit more progressive than C, and utilized immensely in forming hardware speeded games. It is an ideal selection for strong desktop software as well as apps for mobiles and desktop. Known to be the strongest language, C++ is applied in vital operating systems, such as Windows.
+After learning these 2, you can go ahead in knowing about C# language. It won't be difficult for you to get accustomed with C# after knowing C and C++. C# is actually the prime language for Microsoft applications and services. While executing with .Net and ASP technologies, you are required to be familiar with the C# accurately.
+9. SQL
+When you are executing on databases such as Microsoft SQL Server, Oracle, MySQL, etc, you should be aware of SQL programming language or Standard Query Language. From this language, you can achieve the proficiency of acquiring the needed data from big and multifaceted databases.
+10. Swift
+Swift is reflected upon as the trendiest program language for expanding apps for Apple products. This language can be utilized by you for building up apps for iOS activated devices and Apple's MAC in a quick and simple method. When you are keen to expand a superb iOS application, then it is better for you to gain knowledge of Swift programming language.
+
+Hence, the above programming languages are known to be the best ones of 2015. So the developers and programmers should ensure that they're updated regarding them. Knowing such programming languages will certainly take them to a greater level altogether in their career!</p>
+         <footer>
+            <em>&copy; 2018 by Devsaran
+               All Rights Reserved.</em>
+         </footer>
+     </div>
+   </body>
+</html>
