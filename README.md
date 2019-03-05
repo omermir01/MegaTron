@@ -11,6 +11,12 @@ Blackboardlike system ( The Bagpack )
 3. SQL
 4. Html
 
+### Sotware Used
+1. SPMP
+2. ArgoUML
+3. TBT
+4. TBT
+
 ### Author
 * *Monika Sharma**
 * *Francisco Mokuy**
