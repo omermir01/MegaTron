@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\SE Project\SE Project\bin\Debug\SE Project.exe.config
+C:\Users\PC\Desktop\SE Project\SE Project\bin\Debug\SE Project.exe
+C:\Users\PC\Desktop\SE Project\SE Project\bin\Debug\SE Project.pdb
+C:\Users\PC\Desktop\SE Project\SE Project\bin\Debug\SE Project.xml
+C:\Users\PC\Desktop\SE Project\SE Project\obj\Debug\SE Project.vbprojAssemblyReference.cache
+C:\Users\PC\Desktop\SE Project\SE Project\obj\Debug\SE_Project.Form1.resources
+C:\Users\PC\Desktop\SE Project\SE Project\obj\Debug\SE_Project.Resources.resources
+C:\Users\PC\Desktop\SE Project\SE Project\obj\Debug\SE Project.vbproj.GenerateResource.cache
+C:\Users\PC\Desktop\SE Project\SE Project\obj\Debug\SE Project.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SE Project\SE Project\obj\Debug\SE Project.exe
+C:\Users\PC\Desktop\SE Project\SE Project\obj\Debug\SE Project.xml
+C:\Users\PC\Desktop\SE Project\SE Project\obj\Debug\SE Project.pdb
