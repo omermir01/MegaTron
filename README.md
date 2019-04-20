@@ -11,7 +11,7 @@ Blackboardlike system ( The Bagpack )
 3. SQL
 4. Html
 
-### Sotware Used
+### Software Used
 1. SPMP
 2. ArgoUML
 3. TBT
