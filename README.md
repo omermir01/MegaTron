@@ -3,7 +3,7 @@
 We are a group of 5 adventrous and innovative software developers.
 
 ### Project
-Blackboardlike system ( The Bagpack )
+Blackboard Management system ( BirdBox )
 
 ### Purpose of Project
 The purpose of this Project is to create a blackboard System.
